@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Aggarwal!</h1>
 <h3 align="center">AI/ML enthusiast with robust Python and Java expertise, dedicated to data-driven innovation and solving complex challenges</h3>
 
-- 📫 How to reach me *deepanshu7284@gmail.com*
+📫 How to reach me deepanshu7284@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/deepanshu-aggarwal-941a96251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radhika bhati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepanshu-aggarwal-941a96251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deepanshu Aggarwal LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
