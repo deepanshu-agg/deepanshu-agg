@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Aggarwal!</h1>
-<h3 align="center">AI/ML enthusiast with robust Python and Java expertise, dedicated to data-driven innovation and solving complex challenges</h3>
+<h3 align="center">AI/ML engineer crafting data-driven solutions with Python, deep learning, and LLMs to solve complex, real-world problems.</h3>
 
 📫 How to reach me deepanshu7284@gmail.com
 
